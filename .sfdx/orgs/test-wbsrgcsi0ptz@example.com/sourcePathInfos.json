@@ -2,14 +2,14 @@
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1521555187756,
             "changeTime": 1521555187756,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1521555187756,
             "changeTime": 1521555187756,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1521650143129,
             "changeTime": 1521650143129,
-            "contentHash": "5fbee44a08c03da02c591630a0307f5cb8bb230c"
+            "contentHash": "5fbee44a08c03da02c591630a0307f5cb8bb230c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1521555187757,
             "changeTime": 1521555187757,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/kreece/sfdx/ioc_platform_cache",
         {
-            "state": "n",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1521565026347,
             "changeTime": 1521565026347,
             "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/classes/IoC_Cache_Helper_Test.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/classes/IoC_Cache_Helper_Test.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1521650143125,
             "changeTime": 1521650143125,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -92,23 +92,23 @@
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/classes/IoC_Cache_Helper_Test.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1449,
-            "modifiedTime": 1521650143125,
-            "changeTime": 1521650143125,
-            "contentHash": "02db1cb82b2cd34372d2ddb18d2a1c7f943b1c23"
+            "size": 1461,
+            "modifiedTime": 1521735861132,
+            "changeTime": 1521735861132,
+            "contentHash": "50f859a897c3616f25b189df2c5f475f6d5c02a3"
         }
     ],
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/classes/IoC_Cache_Helper.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/classes/IoC_Cache_Helper.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1521650143128,
             "changeTime": 1521650143128,
-            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -118,49 +118,49 @@
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/classes/IoC_Cache_Helper.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1109,
-            "modifiedTime": 1521650143128,
-            "changeTime": 1521650143128,
-            "contentHash": "d136c39b27a0a68e7021abd0aff7c560c12d6944"
+            "size": 1138,
+            "modifiedTime": 1521735861135,
+            "changeTime": 1521735861135,
+            "contentHash": "645bfc9187a146f9525bd35c3c7d4c14260feeab"
         }
     ],
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/cachePartitions/IoC.cachePartition-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/cachePartitions/IoC.cachePartition-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 795,
             "modifiedTime": 1521650143129,
             "changeTime": 1521650143129,
-            "contentHash": "9c3bd699ebc47d094e27c0890151ac6cf8d3f4dc"
+            "contentHash": "9c3bd699ebc47d094e27c0890151ac6cf8d3f4dc",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1521650143128,
             "changeTime": 1521650143128,
-            "contentHash": "31b82d4285aeee7040c047e6916600cd10806a49"
+            "contentHash": "31b82d4285aeee7040c047e6916600cd10806a49",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/cachePartitions",
         {
-            "state": "u",
             "sourcePath": "/Users/kreece/sfdx/ioc_platform_cache/force-app/main/default/cachePartitions",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1521650143129,
             "changeTime": 1521650143129,
-            "contentHash": "387f3a9d8c6469b45146b194fb3fd9da12de7a4a"
+            "contentHash": "387f3a9d8c6469b45146b194fb3fd9da12de7a4a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
