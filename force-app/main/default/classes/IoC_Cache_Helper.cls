@@ -2,17 +2,17 @@ public with sharing class IoC_Cache_Helper
 {
     private static Cache.OrgPartition ioCPartition = Cache.Org.getPartition('local.IoC');
     
-	public static void Init()
+    public static void Init()
     {
-        /*for(Concrete_Implementation__c ci : IoC_Object_Helper.getAllImplementations())
+        for(Concrete_Implementation__c ci : IoC_Object_Helper.getAllImplementations())
         {
             ioCPartition.put(ci.Interface__c, ci.Implementation__c);
-        }*/
+        }
     }
     
     public static string GetImplementation(string p_interface)
     {
-        /*string implementation = (string)ioCPartition.get(p_interface);
+        string implementation = (string)ioCPartition.get(p_interface);
         
         if(implementation == null)
         {
@@ -30,7 +30,6 @@ public with sharing class IoC_Cache_Helper
             }
         }
         
-        return implementation;*/
-        return null;
+        return implementation;
     }
 }
